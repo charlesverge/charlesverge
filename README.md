@@ -35,5 +35,10 @@ Senior developer looking to work for a product company developing the next gener
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![vLLM](https://img.shields.io/badge/vLLM-30a2ff?style=for-the-badge&logo=vllm&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-F7931E?style=for-the-badge&logo=amazon&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
+![Claude Code](https://img.shields.io/badge/ClaudeCode-D97757?style=for-the-badge&logo=claudecode&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-FFF?style=for-the-badge&logo=openai&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-FFFFFF?style=for-the-badge&logo=codex&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-00684A?style=for-the-badge&logo=mongo&logoColor=white)
 
 </div>
